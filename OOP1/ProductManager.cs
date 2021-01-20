@@ -6,6 +6,8 @@ namespace OOP1
 {
     class ProductManager
     {
-
+        public void Add() 
+        {
+        }
     }
 }
