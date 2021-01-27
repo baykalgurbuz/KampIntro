@@ -16,6 +16,7 @@ namespace OOP1
             Product p2 = new Product { Id = 1, ProductName = "Pen", UnitPrice = 35, UnitsInStock = 5, CategoryId = 5 };
 
             ProductManager productmanager = new ProductManager();
+         
         }
     }
 }
